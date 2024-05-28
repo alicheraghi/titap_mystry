@@ -8,9 +8,5 @@
 برای شروع فایل README.txt رو بخونید.
 
 
-<<<<<<< HEAD
-newline
 
-=======
 another new line
->>>>>>> 58e334235fd194bd0f30ccc5b19f2c5de8a373f0
